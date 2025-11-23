@@ -1,2 +1,2 @@
-# test_code_review_agent
+# Тест AI-agent Code Review
 Репозиторий для демонстрации работы AI-agent Code Reviewer
